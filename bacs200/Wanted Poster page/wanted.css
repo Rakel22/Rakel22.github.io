@@ -17,4 +17,9 @@ h2
 {
 	background-color: darkgray;
 }
-main ul
+header
+{
+	background-color:  darkslategray;
+	border: 8px dashed #A9BBD7;
+	margin: 10px 100px;
+}
