@@ -11,7 +11,7 @@
 			}
 h1
 {
-  background-color: LightSkyBlue;
+	background-color: LightSkyBlue;
 }
 h2
 {
@@ -20,6 +20,18 @@ h2
 header
 {
 	background-color:  darkslategray;
-	border: 8px dashed #A9BBD7;
+	border: 8px dashed ;
 	margin: 10px 100px;
+}
+body
+{
+	background-color:  lightsteelblue;
+}
+footer
+{
+	background-color: cadetblue;
+}
+main h1
+{
+	font-family: 'Brush Script MT', cursive;
 }
