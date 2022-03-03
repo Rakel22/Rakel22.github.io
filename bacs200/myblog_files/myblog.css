@@ -1,7 +1,8 @@
 header
 {
-  border: 5px dashed brown;
+  	border: 5px dashed brown;
 	margin: 10px 100px;
+	list-style-position: inside;
 }
 
 
