@@ -7,14 +7,10 @@
 		}
 *{
 	font-family:'BebasNeue-Regular';
+	font-size: 38pt;
 }
 
 body
 {
 	background-color:  lightsteelblue;
-}
-
-*{
-	font-size: 38pt;
-	
 }
