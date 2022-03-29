@@ -1,2 +1,7 @@
 /* CSS Document */
-
+header h2
+{
+	font-size:  20pt;
+	color: var(--old-western-brown);
+	font-variant: small-caps;
+}
