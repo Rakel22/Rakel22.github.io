@@ -1,4 +1,10 @@
 /* CSS Document */
+*
+			{
+				text-align: center;
+				list-style-position: inside;
+				padding-left: 0;
+			}
 @font-face
 
 		{
@@ -9,23 +15,50 @@ h1
 {
 	font-family:'PaletteMosaic-Regular';
 	font-size: 30pt;
-	color: rgb(100,50,18);
+	color:  rgba(77,42,7,1.00);
 }
 @font-face
 {
 			font-family:'Laila-Regular';
 				src:url('https://Rakel22.github.io/bacs200/myblog_files/fonts/Laila-Regular.ttf') format('truetype')
 		}
-
+h2
+{
+	font-family:'Laila-Regular';
+	font-size: 20pt;
+}
+h3,h4
+{
+	font-family:'Laila-Regular';
+	font-size: 16pt;
+}
 @font-face
 
 		{
 			font-family:'Laila-Regular';
 				src:url('https://Rakel22.github.io/bacs200/myblog_files/fonts/Laila-Regular.ttf') format('truetype')
 		}
-h3
+h3,h4
 {
-	font-size:  18pt;
+	font-size:  17pt;
+	font-variant: small-caps;
+}
+.coor {
+}
+*
+{
+	background-color:  darkgray;
+}
+	@font-face
+
+		{
+			font-family:'Laila-Regular';
+				src:url('https://Rakel22.github.io/bacs200/myblog_files/fonts/Laila-Regular.ttf') format('truetype')
+		}
+h5
+{
+	font-size:  15pt;
 	color: var(--old-western-brown);
 	font-variant: small-caps;
+
 }
