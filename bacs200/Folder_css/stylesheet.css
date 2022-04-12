@@ -9,7 +9,10 @@
 	font-family:'BebasNeue-Regular';
 	font-size: 18pt;
 }
-
+header 
+{
+	font-size: 23 pt;
+}
 body
 {
 	background-color:  lightsteelblue;
