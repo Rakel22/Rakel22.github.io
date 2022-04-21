@@ -1,0 +1,19 @@
+@font-face
+
+		{
+			font-family:'BebasNeue-Regular';
+				src:url('https://Rakel22.github.io/bacs200/myblog_files/fonts/BebasNeue-Regular.ttf') format('truetype')
+		}
+*{
+	font-family:'BebasNeue-Regular';
+	font-size: 18pt;
+}
+header 
+{
+	font-size: 23 pt;
+}
+body
+{
+	background-color:  lightsteelblue;
+}
+
